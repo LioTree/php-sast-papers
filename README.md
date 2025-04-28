@@ -42,6 +42,7 @@ A collection of papers on the use of static program analysis for detecting vulne
     *   J. Dahse, N. Krein, and T. Holz, **‘Code Reuse Attacks in PHP: Automated POP Chain Generation’**, in *Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security (CCS ’14)*. New York, NY, USA: Association for Computing Machinery, Nov. 2014, pp. 42–53. doi: [10.1145/2660267.2660363](https://doi.org/10.1145/2660267.2660363).
 
 *   **2016**
+    *   J. Dahse, **'Static detection of complex vulnerabilities in modern PHP applications'**, PhD Thesis, Bochum, Ruhr-Universität Bochum, Diss., 2016, 2016.
     *   A. Alhuzali, B. Eshete, R. Gjomemo, and V. N. Venkatakrishnan, **‘Chainsaw: Chained Automated Workflow-based Exploit Generation’**, in *Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security (CCS ’16)*. New York, NY, USA: Association for Computing Machinery, Oct. 2016, pp. 641–652. doi: [10.1145/2976749.2978380](https://doi.org/10.1145/2976749.2978380).
 
 *   **2017**
