@@ -90,4 +90,5 @@ A collection of papers on the use of static program analysis for detecting vulne
         * Not yet open source: [https://github.com/xjzzzxx/Yama](https://github.com/xjzzzxx/Yama)
 
 *   **2025**
-    *   Y. Ji, T. Dai, Z. Zhou, Y. Tang, and J. He, **‘Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis’**, Mar. 03, 2025. doi: [10.1145/3720488](https://doi.org/10.1145/3720488).
+    *   Y. Ji, T. Dai, Z. Zhou, Y. Tang, and J. He, **'Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis'**, Mar. 03, 2025. doi: [10.1145/3720488](https://doi.org/10.1145/3720488).
+    *   P. Li et al., **'Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach'**, Apr. 23, 2025, arXiv: [arXiv:2504.16057](https://arxiv.org/abs/2504.16057). doi: [10.48550/arXiv.2504.16057](https://doi.org/10.48550/arXiv.2504.16057).
