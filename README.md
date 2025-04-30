@@ -87,7 +87,9 @@ A collection of papers on the use of static program analysis for detecting vulne
     *   R. Jahanshahi and M. Egele, **‘Argus: all your (PHP) injection-sinks are belong to us’**, in *Proceedings of the 33rd USENIX Conference on Security Symposium (SEC ’24)*. USA: USENIX Association, Aug. 2024, pp. 6759–6776. doi: [10.5555/3698900.3699278](https://doi.org/10.5555/3698900.3699278).
         * Code available: [https://github.com/BUseclab/Argus](https://github.com/BUseclab/Argus).
     *   Z. Jiazhen, Z. Kailong, Y. Lu, H. Hui, and L. Yuliang, **‘Yama: Precise Opcode-based Data Flow Analysis for Detecting PHP Applications Vulnerabilities’**, Oct. 16, 2024, arXiv: [2410.12351](https://arxiv.org/abs/2410.12351). doi: [10.48550/arXiv.2410.12351](https://doi.org/10.48550/arXiv.2410.12351).
-        * Not yet open source: [https://github.com/xjzzzxx/Yama](https://github.com/xjzzzxx/Yama)
+        * Not yet open source: [https://github.com/xjzzzxx/Yama](https://github.com/xjzzzxx/Yama).
+    *   M. Wessels, S. Koch, G. Pellegrino, and M. Johns, **‘SSRF vs. developers: a study of SSRF-defenses in PHP applications’**, in *Proceedings of the 33rd USENIX Conference on Security Symposium (SEC ’24)*. USA: USENIX Association, Aug. 2024, pp. 6777–6794.
+        * Code available: [https://github.com/PHP-CPG](https://github.com/PHP-CPG)
 
 *   **2025**
     *   Y. Ji, T. Dai, Z. Zhou, Y. Tang, and J. He, **'Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis'**, Mar. 03, 2025. doi: [10.1145/3720488](https://doi.org/10.1145/3720488).
