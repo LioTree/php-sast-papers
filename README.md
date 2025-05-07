@@ -93,6 +93,8 @@ A collection of papers on the use of static program analysis for detecting vulne
     *   Y. David, N. Christou, A. D. Kellas, V. P. Kemerlis, and J. Yang, **‘QUACK: Hindering Deserialization Attacks via Static Duck Typing’**, in *Proceedings 2024 Network and Distributed System Security Symposium*, San Diego, CA, USA: Internet Society, 2024. doi: [10.14722/ndss.2024.241015](https://doi.org/10.14722/ndss.2024.241015).
         * Code available: [https://github.com/columbia/quack](https://github.com/columbia/quack)
 
-*   **2025**
+*   **2025** 
     *   Y. Ji, T. Dai, Z. Zhou, Y. Tang, and J. He, **'Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis'**, Mar. 03, 2025. doi: [10.1145/3720488](https://doi.org/10.1145/3720488).
     *   P. Li et al., **'Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach'**, Apr. 23, 2025, arXiv: [arXiv:2504.16057](https://arxiv.org/abs/2504.16057). doi: [10.48550/arXiv.2504.16057](https://doi.org/10.48550/arXiv.2504.16057).
+    *   N. P. Thimmaiah, Y. J. Dave, R. Gjomemo, and V. N. Venkatakrishnan, **‘FIXX: FInding eXploits from eXamples’**, presented at the *34th USENIX Security Symposium (USENIX Security 25)*. [Online]. Available: [https://www.usenix.org/conference/usenixsecurity25/presentation/thimmaiah](https://www.usenix.org/conference/usenixsecurity25/presentation/thimmaiah)
+        * Code available: [https://zenodo.org/records/14738532](https://zenodo.org/records/14738532)
