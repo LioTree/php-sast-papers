@@ -2,6 +2,8 @@
 
 A collection of papers on the use of static program analysis for detecting vulnerabilities in PHP applications. Some works that mainly use dynamic methods are not included.
 
+I also wrote a [review](https://liotree.github.io/2025/04/17/PHP-SAST-Research-Review_Chinese/) that covers parts of these papers.
+
 *   **2004**
     *   Yao-Wen Huang, Fang Yu, C. Hang, Chung-Hung Tsai, D. T. Lee, and Sy-Yen Kuo, **‘Verifying Web applications using bounded model checking’**, in *International Conference on Dependable Systems and Networks, 2004*, Florence, Italy: IEEE, 2004, pp. 199–208. doi: [10.1109/DSN.2004.1311890](https://doi.org/10.1109/DSN.2004.1311890).
     *   Y.-W. Huang, F. Yu, C. Hang, C.-H. Tsai, D.-T. Lee, and S.-Y. Kuo, **‘Securing web application code by static analysis and runtime protection’**, in *Proceedings of the 13th international conference on World Wide Web (WWW ’04)*. New York, NY, USA: Association for Computing Machinery, May 2004, pp. 40–52. doi: [10.1145/988672.988679](https://doi.flhttps://www.acm.org/publications/proceedings/www/988672/p40-huang).
