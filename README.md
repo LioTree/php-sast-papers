@@ -102,3 +102,4 @@ I also wrote a [review](https://liotree.github.io/2025/04/17/PHP-SAST-Research-R
         * Code available: [https://zenodo.org/records/14738532](https://zenodo.org/records/14738532)
     *   X. Wang, Y. Li, J. Lu, S. Cui, C. Shi, Q. Mai, Y. Zhang, Y. Xiao, F. Li, and W. Huo, **‘ZIPPER: Static Taint Analysis for PHP Applications with Precision and Efficiency’**, presented at the *34th USENIX Security Symposium (USENIX Security 25)*, 2025. [Online]. Available: [https://www.usenix.org/conference/usenixsecurity25/presentation/wang-xinyi](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-xinyi)
         * Code available: [https://zenodo.org/records/15636716](https://zenodo.org/records/15636716)
+    *   Y. Shi et al., **‘PHPJoy: A Novel Extended Graph-based PHP Code Analysis Framework’**, *IEEE Trans. Software Eng.*, pp. 1–16, 2025. doi: [10.1109/TSE.2025.3614304](https://doi.org/10.1109/TSE.2025.3614304)
